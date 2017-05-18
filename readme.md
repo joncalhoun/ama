@@ -14,4 +14,4 @@ I'm an independent fullstack developer primarily writing Go and Ruby on Rails. I
 
 I'm the author of [Web Development with Go](https://www.usegolang.com) which is in early access, but is still being used by hundreds of developers to learn how to build real, production-grade web applications in Go.
 
-I also produce a free video/text series teaching algorithms - [Let's Learn Algorithms](https://www.calhoun.io/lets-learn-algorithms/) and plan to release a few more free courses over the summer.
+I also produce a free video/text series teaching algorithms - [Let's Learn Algorithms](https://www.calhoun.io/lets-learn-algorithms/) - and plan to release a few more free courses over the summer.
